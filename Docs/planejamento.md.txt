@@ -1,0 +1,29 @@
+
+Manter a casa limpa, organizada e funcional com o mínimo de esforço acumulado, garantindo bem-estar para os moradores.
+
+Funcionalidades Planejadas (Cômodos)
+[ ] Cozinha (louça, fogão, superfícies).
+
+[ ] Banheiro (higienização completa).
+
+[ ] Quarto (troca de roupa de cama e organização).
+
+[ ] Sala (aspiração e poeira).
+
+Prazo de Execução
+Ciclo: 7 dias (recorrente).
+
+Tarefas Diárias
+Segunda: Lavar roupas e organizar a sala.
+
+Terça: Limpeza pesada da cozinha.
+
+Quarta: Limpeza completa do banheiro.
+
+Quinta: Troca de lençóis e aspiração de pó.
+
+Sexta: "Manutenção Geral" (organizar o que saiu do lugar).
+
+Sábado: Compras de mantimentos (opcional).
+
+Domingo: Descanso (apenas manter a pia limpa).

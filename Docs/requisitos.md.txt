@@ -1,0 +1,7 @@
+RF01 (Frequência): A louça deve ser lavada após cada refeição (não acumular).
+
+RF02 (Segurança): Uso de luvas para manusear produtos químicos.
+
+RNF01 (Tempo): Nenhuma tarefa diária deve ultrapassar 45 minutos.
+
+RNF02 (Padrão): O chão deve estar seco antes de encerrar a tarefa de limpeza.
